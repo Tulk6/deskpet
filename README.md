@@ -12,7 +12,7 @@ The planned ui will feature tamagotchi elements, with a character that wakes at 
 
 The two rotary encoders also contain buttons, which along with two other buttons allow for a range of inputs. One rotary encoder will function as volume/mute, the other to select options. One of the buttons will be a return button, and the other a home button.
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-22-06-image.png)
+![](screenshots/full.png)
 
 The assembled device
 
@@ -24,18 +24,18 @@ The main board
 
 The display board 
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-18-17-image.png)
+![](screenshots/ioboard.png)
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-18-36-image.png)
+![](screenshots/mainboard.png)
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-19-44-image.png)
+![](screenshots//backplate.png)
 
 ^ The back of the device, with the backplate visible.
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-20-21-image.png)
+![](screenshots/back.png)
 
 ^ The back of the device without the backplate.
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-20-42-image.png)
+![](screenshots/back2.png)
 
-![](C:\Users\james\AppData\Roaming\marktext\images\2025-12-15-21-21-36-image.png)
+![](screenshots/front.png)
